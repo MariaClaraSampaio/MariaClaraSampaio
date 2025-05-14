@@ -1,13 +1,14 @@
 # Maria Clara Brito Sampaio 
 Desenvolvedora Front-end 
 
----
 
- 👩💻 Perfil Profissional
-Idade: 16 anos  
-Formação: Técnico em Informática (2024-2026)  
-Foco: Desenvolvimento Mobile com React Native  
----
+ 💻 Perfil Profissional
+ 
+Idade: 16 anos
+
+Formação: Técnico em Informática (2024-2026)
+
+Foco: Desenvolvimento Mobile com React Native
 
  🛠 Stack Principal
 <p align="center">
@@ -20,7 +21,7 @@ Foco: Desenvolvimento Mobile com React Native
 
 ---
 
-# 📊 Atividade GitHub
+📊 Atividade GitHub
 <div align="center">
 
 
@@ -30,13 +31,14 @@ Foco: Desenvolvimento Mobile com React Native
 
 ---
 
-# 📱 Projetos Relevantes
+ 📱 Projetos Relevantes
+ 
 [Buscador de CEP](https://github.com/MariaClaraSampaio/BuscadorDeCEP)
 
 
 ---
 
-# 📬 Contato Profissional
+ 📬 Contato Profissional
 <div align="center" style="margin-top:30px;">
   
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mc3087203@gmail.com)
