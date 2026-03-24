@@ -23,8 +23,8 @@
 
 ## 📊 Atividade GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Status GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Linguagens mais usadas" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Status GitHub" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Linguagens mais usadas" width="49%">
 </p>
 
 ---
