@@ -23,8 +23,8 @@
 
 ## 📊 Atividade GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Status GitHub" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Linguagens mais usadas" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Status GitHub" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Linguagens mais usadas" width="48%">
 </p>
 
 ---
@@ -32,16 +32,12 @@
 ## 📬 Contato Profissional
 <p align="center">
   <a href="mailto:mc3087203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="70">
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="80">
   </a>
   <a href="https://instagram.com/m_clara.brito">
-    <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="70">
+    <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="80">
   </a>
   <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="70">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="80">
   </a>
 </p>
-
----
-
-✨ *“Transformando código em experiências encantadoras.”* ✨
