@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Gif fofo gatinho branco">
-</p>
-
 # 🌷 Maria Clara Brito Sampaio  
 ✨ Desenvolvedora Front-end | 17 anos ✨  
 
@@ -37,7 +33,7 @@
 ---
 
 ## 📬 Contato Profissional
-<div align="center" style="margin-top:30px;">
+<div align="center";">
   
 [![Email](https://img.shields.io/badge/Gmail-FF69B4?style=flat-square&logo=gmail&logoColor=white)](mailto:mc3087203@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-Instagram-FFC0CB?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/m_clara.brito)  
