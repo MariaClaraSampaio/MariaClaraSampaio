@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Gif fofo gatinho branco">
+</p>
+
 # 🌷 Maria Clara Brito Sampaio  
 ✨ Desenvolvedora Front-end | 17 anos ✨  
 
@@ -22,13 +26,13 @@
 ---
 
 ## 📊 Atividade GitHub
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Linguagens mais usadas">
+</p>
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclarabs&layout=compact&theme=rose_pine&title_color=FF69B4&icon_color=FFC0CB&text_color=FFDDEE&bg_color=2E1343)
-
-![Status](https://github-readme-stats.vercel.app/api?username=mariaclarabs&show_icons=true&theme=rose_pine&title_color=FF69B4&icon_color=FFC0CB&text_color=FFDDEE&bg_color=2E1343)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Status GitHub">
+</p>
 
 ---
 
@@ -44,5 +48,3 @@
 ---
 
 ✨ *“Transformando código em experiências encantadoras.”* ✨
-
-
