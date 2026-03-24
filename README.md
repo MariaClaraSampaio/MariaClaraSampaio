@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Gif fofo gatinho branco" width="250">
+</p>
+
 # 🌷 Maria Clara Brito Sampaio  
 ✨ Desenvolvedora Front-end | 17 anos ✨  
 
@@ -22,10 +26,16 @@
 ---
 
 ## 📊 Atividade GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Status GitHub" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Linguagens mais usadas" width="49%">
-</p>
+<table align="center">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Status GitHub" width="100%">
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Linguagens mais usadas" width="100%">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,3 +51,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="80">
   </a>
 </p>
+
+---
+
+✨ *“Transformando código em experiências encantadoras.”* ✨
