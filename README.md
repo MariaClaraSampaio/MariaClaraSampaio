@@ -1,4 +1,4 @@
-# 🌷 Maria Clara Brito Sampaio  
+# 🌷 Maria Clara Brito Sampaio
 ✨ Desenvolvedora Front-end | 17 anos ✨  
 
 ---
