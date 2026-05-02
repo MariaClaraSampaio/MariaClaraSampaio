@@ -25,7 +25,10 @@ Aqui você encontra meus projetos, estatísticas e linguagens favoritas.
 
 ## 🐍 Contribuições
 
+## 🐍 Contribuições
+
 ![Snake animation](https://raw.githubusercontent.com/MariaClaraSampaio/MariaClaraSampaio/output/snake.svg)
+
 
 ---
 
