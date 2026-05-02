@@ -1,53 +1,42 @@
-# 🌷 Maria Clara Brito Sampaio
-✨ Desenvolvedora Front-end | 17 anos ✨  
+# 🌸 Maria Clara Sampaio
+
+Bem-vindo ao meu perfil! ✨  
+Aqui você encontra meus projetos, estatísticas e linguagens favoritas.
 
 ---
 
-## 💖 Perfil Profissional
-- 🎓 Formação: Técnico em Informática (2024-2026)  
-- 💻 Foco: Desenvolvimento Web com React  
-- 🌟 Estilo: Criando interfaces modernas, criativas e cheias de vida  
+## 📊 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats-maria.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&bg_color=00000000)
+
+![Top Langs](https://github-readme-stats-maria.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&bg_color=00000000)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MariaClaraSampaio&theme=rose_pine&background=00000000)
 
 ---
 
-## 🛠 Stack Principal
-<p align="center">
-  <img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-DB7093?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+## Badges
+
+![Profile views](https://img.shields.io/badge/Visualizações-1234-ff69b4?style=flat-square&labelColor=ffffff)
+![Followers](https://img.shields.io/github/followers/MariaClaraSampaio?label=Seguidores&style=flat-square&color=ff69b4&labelColor=ffffff)
+![Stars](https://img.shields.io/github/stars/MariaClaraSampaio?label=Stars&style=flat-square&color=ff69b4&labelColor=ffffff)
+
 
 ---
 
-## 📊 Atividade GitHub
-<table align="center">
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Status GitHub" width="100%">
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFDDEE&bg_color=2E1343" alt="Linguagens mais usadas" width="100%">
-</td>
-</tr>
-</table>
+## 🐍 Contribuições
+
+![Snake animation SVG](https://raw.githubusercontent.com/MariaClaraSampaio/MariaClaraSampaio/output/snake.svg)
+
+![Snake animation GIF](https://raw.githubusercontent.com/MariaClaraSampaio/MariaClaraSampaio/output/snake.gif)
 
 ---
 
-## 📬 Contato Profissional
-<p align="center">
-  <a href="mailto:mc3087203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="80">
-  </a>
-  <a href="https://instagram.com/m_clara.brito">
-    <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="80">
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="80">
-  </a>
-</p>
+## 🌱 Sobre mim
+- 💻 Apaixonada por tecnologia e programação  
+- 📚 Sempre aprendendo coisas novas  
+- 🎨 Curto personalizar meus projetos e deixar tudo com a minha cara  
 
 ---
 
-✨ *“Transformando código em experiências encantadoras.”* ✨
+✨ Obrigada por visitar meu perfil! ✨
