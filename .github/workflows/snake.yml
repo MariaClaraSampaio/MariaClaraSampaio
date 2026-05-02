@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: MariaClaraSampaio
           outputs: dist/snake.svg
