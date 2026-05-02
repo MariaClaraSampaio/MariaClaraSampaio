@@ -15,12 +15,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MariaClaraSampaio
-          outputs: |
-            dist/snake.svg
-            dist/snake.gif
+          outputs: dist/snake.svg
           color_snake: "#ff69b4"   # rosa choque
-          color_dots: "#ADD8E6"    # azul bebe
-          color_empty: "#f0f0f0"      # cor dos quadradinhos vazios (antes brancos)
+          color_dots: "#ADD8E6"    # azul bebê (quadradinhos com contribuições)
+          color_empty: "#FFC0CB"   # rosa bebê (quadradinhos vazios)
           grid_size: 20
 
       - name: Push snake animation to output branch
