@@ -7,9 +7,9 @@ Aqui você encontra meus projetos, estatísticas e linguagens favoritas.
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats-maria.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&bg_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats-maria.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSampaio&layout=compact&theme=rose_pine&bg_color=00000000)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MariaClaraSampaio&theme=rose_pine&background=00000000)
 
@@ -25,10 +25,7 @@ Aqui você encontra meus projetos, estatísticas e linguagens favoritas.
 
 ## 🐍 Contribuições
 
-## 🐍 Contribuições
-
 ![Snake animation](https://raw.githubusercontent.com/MariaClaraSampaio/MariaClaraSampaio/output/snake.svg)
-
 
 ---
 
