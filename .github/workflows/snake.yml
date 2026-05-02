@@ -18,8 +18,9 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake.gif
-          color_snake: pink
-          color_dots: purple
+          color_snake: "#ff69b4"   # rosa choque
+          color_dots: "#9370db"    # lilás
+          grid_size: 20
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
