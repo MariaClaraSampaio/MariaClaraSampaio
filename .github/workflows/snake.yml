@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: MariaClaraSampaio
           outputs: dist/snake.svg
-          color_snake: "#ff69b4"   # rosa choque
+          color_snake: "#ff69b4"   # rosa choque (cobrinha)
           color_dots: "#ADD8E6"    # azul bebê (quadradinhos com contribuições)
           color_empty: "#FFC0CB"   # rosa bebê (quadradinhos vazios)
           grid_size: 20
