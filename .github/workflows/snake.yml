@@ -19,7 +19,8 @@ jobs:
             dist/snake.svg
             dist/snake.gif
           color_snake: "#ff69b4"   # rosa choque
-          color_dots: "#9370db"    # lilás
+          color_dots: "#ADD8E6"    # azul bebe
+          color_empty: "#f0f0f0"      # cor dos quadradinhos vazios (antes brancos)
           grid_size: 20
 
       - name: Push snake animation to output branch
