@@ -22,6 +22,7 @@ Aqui você encontra meus projetos, estatísticas e linguagens favoritas.
 ![Stars](https://img.shields.io/github/stars/MariaClaraSampaio?label=Stars&style=flat-square&color=ff69b4&labelColor=ffffff)
 
 
+
 ---
 
 ## 🐍 Contribuições
