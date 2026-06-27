@@ -60,7 +60,7 @@ const maria = {
 <br/>
 
 <a href="https://github.com/ti-eeepdjmm">
-  <img src="COLOQUE_O_LINK_DA_LOGO_1" width="85"/>
+  <img src="./assets/tieeepdjm.jfif" width="85"/>
 </a>
 
 <br/><br/>
