@@ -59,7 +59,7 @@ const maria = {
 
 <br/>
 
-<a href="COLOQUE_O_LINK_DA_ORG_1">
+<a href="https://github.com/ti-eeepdjmm">
   <img src="COLOQUE_O_LINK_DA_LOGO_1" width="85"/>
 </a>
 
