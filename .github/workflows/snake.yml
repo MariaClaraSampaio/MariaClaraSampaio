@@ -2,27 +2,28 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # roda a cada 6 horas
-  workflow_dispatch:        # permite rodar manualmente
+    - cron: "0 */6 * * *" # roda a cada 6 horas
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: MariaClaraSampaio
-          outputs: dist/snake.svg
-          color_snake: "#ff69b4"   # rosa choque (cobrinha)
-          color_dots: "#ADD8E6"    # azul bebê (quadradinhos com contribuições)
-          color_empty: "#FFC0CB"   # rosa bebê (quadradinhos vazios)
-          grid_size: 20
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
