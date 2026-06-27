@@ -63,13 +63,9 @@ const maria = {
   <img src="./assets/tieeepdjm.jfif" width="85"/>
 </a>
 
-<br/><br/>
-
-<b>Nome da Organização 1</b>
-
 <br/>
 
-<sub>Short description here</sub>
+<sub>DevHUB – Portfólio Colaborativo</sub>
 
 <br/><br/>
 
@@ -79,7 +75,7 @@ const maria = {
 
 <br/>
 
-<a href="COLOQUE_O_LINK_DA_ORG_2">
+<a href="https://github.com/StarCapGroup">
   <img src="COLOQUE_O_LINK_DA_LOGO_2" width="85"/>
 </a>
 
