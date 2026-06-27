@@ -76,16 +76,14 @@ const maria = {
 <br/>
 
 <a href="https://github.com/StarCapGroup">
-  <img src="./assets/StarCap_logo" width="85"/>
+  <img src="./assets/StarCap_logo.png" width="85"/>
 </a>
 
 <br/><br/>
 
-<b>Nome da Organização 2</b>
-
 <br/>
 
-<sub>Short description here</sub>
+<sub>A StarCap é uma plataforma que une integração financeira, soberania de dados e inteligência de mercado para oferecer uma visão completa e segura do seu patrimônio.</sub>
 
 <br/><br/>
 
