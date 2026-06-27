@@ -76,7 +76,7 @@ const maria = {
 <br/>
 
 <a href="https://github.com/StarCapGroup">
-  <img src="COLOQUE_O_LINK_DA_LOGO_2" width="85"/>
+  <img src="./assets/StarCap_logo" width="85"/>
 </a>
 
 <br/><br/>
