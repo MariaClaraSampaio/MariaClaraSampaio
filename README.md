@@ -63,9 +63,13 @@ const maria = {
   <img src="./assets/tieeepdjm.jfif" width="85"/>
 </a>
 
+<br/><br/>
+
+<b>DevHUB</b>
+
 <br/>
 
-<sub>DevHUB – Portfólio Colaborativo</sub>
+<sub>Collaborative portfolio project</sub>
 
 <br/><br/>
 
@@ -81,9 +85,11 @@ const maria = {
 
 <br/><br/>
 
+<b>StarCap</b>
+
 <br/>
 
-<sub>A StarCap é uma plataforma que une integração financeira, soberania de dados e inteligência de mercado para oferecer uma visão completa e segura do seu patrimônio.</sub>
+<sub>Finance & data intelligence platform</sub>
 
 <br/><br/>
 
