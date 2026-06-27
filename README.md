@@ -46,8 +46,58 @@ const maria = {
 ## 🏢 Organizations
 
 <p align="center">
-  <i>Currently collaborating on open-source and academic projects.</i>
+  <sub>Communities and groups I’m part of ✨</sub>
 </p>
+
+<br/>
+
+<table align="center" cellspacing="20">
+
+<tr>
+
+<td align="center" bgcolor="#0d0d0d">
+
+<br/>
+
+<a href="COLOQUE_O_LINK_DA_ORG_1">
+  <img src="COLOQUE_O_LINK_DA_LOGO_1" width="85"/>
+</a>
+
+<br/><br/>
+
+<b>Nome da Organização 1</b>
+
+<br/>
+
+<sub>Short description here</sub>
+
+<br/><br/>
+
+</td>
+
+<td align="center" bgcolor="#0d0d0d">
+
+<br/>
+
+<a href="COLOQUE_O_LINK_DA_ORG_2">
+  <img src="COLOQUE_O_LINK_DA_LOGO_2" width="85"/>
+</a>
+
+<br/><br/>
+
+<b>Nome da Organização 2</b>
+
+<br/>
+
+<sub>Short description here</sub>
+
+<br/><br/>
+
+</td>
+
+</tr>
+
+</table>
 
   <p align="center">✦ Contribution Snake</p>
 
@@ -137,6 +187,3 @@ const maria = {
 
 
 
-<p align="center">
-  <sub>Thanks for visiting my profile ✨</sub>
-</p>
