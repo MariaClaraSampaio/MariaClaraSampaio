@@ -102,7 +102,7 @@ const maria = {
   <p align="center">✦ Contribution Snake</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MariaClaraSampaio/MariaClaraSampaio/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/MariaClaraSampaio/MariaClaraSampaio/output/github-contribution-grid-snake.svg?v=2"/>
 </p>
 
  <p align="center">✦ Highlights</p>
