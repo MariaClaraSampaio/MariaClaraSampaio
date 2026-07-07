@@ -23,12 +23,14 @@ const maria = {
   coffee: true
 }
 ```
-</td> <td> <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000"/> </td> </tr> </table> </div> 
+</td> <td>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0D0D12"/>
+</td> </tr> </table> </div> 
 
   <p align="center">✦ Tech Stack</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,firebase,tailwind,ts,js,git,github,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,firebase,tailwind,ts,js,git,github,vscode"/>
 </p>
 
  <p align="center">✦ Performance</p>
@@ -102,16 +104,10 @@ const maria = {
   <p align="center">✦ Contribution Snake</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MariaClaraSampaio/MariaClaraSampaio/output/github-contribution-grid-snake.svg?v=2"/>
+  <img src="https://raw.githubusercontent.com/MariaClaraSampaio/MariaClaraSampaio/output/github-contribution-grid-snake-dark.svg?v=3"/>
 </p>
 
- <p align="center">✦ Highlights</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&hide_border=true"/>
-</p>
-
- <p align="center">📚 What I Study</p>
+<p align="center">📚 What I Study</p>
 
 <p align="center">
   🌸 <b>learning journey</b> ✨
