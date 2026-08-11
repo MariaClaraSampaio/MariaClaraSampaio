@@ -23,8 +23,6 @@ const maria = {
   coffee: true
 }
 ```
-</td> <td>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MariaClaraSampaio&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0D0D12"/>
 </td> </tr> </table> </div> 
 
   <p align="center">✦ Tech Stack</p>
